@@ -1,0 +1,67 @@
+10.88.2.137,v-newinit01,pts00064.persistent.co.in
+10.88.2.138,v-newinit02,pts00064.persistent.co.in
+10.88.34.223,v-newinit03,pts00063.persistent.co.in
+10.88.34.224,v-newinit07,pts00063.persistent.co.in
+10.88.2.139,v-newinit04,pts00064.persistent.co.in
+10.88.2.140,v-newinit05,pts00064.persistent.co.in
+10.88.2.141,v-newinit06,pts00064.persistent.co.in
+10.88.34.225,v-newinit08,pts00058.persistent.co.in
+10.88.34.226,v-newinit09,pts00059.persistent.co.in
+10.88.34.227,v-newinit10,pts00058.persistent.co.in
+10.88.34.229,v-newinit14,pts00058.persistent.co.in
+10.80.38.201,pt-ibmibm11835 ,Freebird
+10.88.34.228,v-newinit11,pts00058.persistent.co.in
+10.80.38.20,pt-ibmibm11246,Freebird
+10.80.41.133,pt-ibmibm14165,Freebird
+10.80.41.135,pt-ibmibm14167,Freebird
+10.46.33.136,HJS494-T-1,HJ-B3-Data Center
+10.46.33.137,HJS494-T-2,HJ-B3-Data Center
+10.46.33.138,HJS494-T-3,HJ-B3-Data Center
+10.46.33.139,HJS494-T-4,HJ-B3-Data Center
+10.46.33.140,HJS494-T-5,HJ-B3-Data Center
+10.46.33.141,HJS494-T-6,HJ-B3-Data Center
+10.46.33.142,HJS494-T-7,HJ-B3-Data Center
+10.46.33.143,HJS495-HADOOP-T-1,HJ-B3-Data Center
+10.46.33.144,HJS495-HADOOP-T-2,HJ-B3-Data Center
+10.46.33.145,HJS495-HADOOP-T-3,HJ-B3-Data Center
+10.46.33.146,HJS495-HADOOP-T-4,HJ-B3-Data Center
+10.46.33.147,HJS495-HADOOP-T-5,HJ-B3-Data Center
+10.46.33.148,HJS495-HADOOP-T-6,HJ-B3-Data Center
+10.46.33.149,HJS495-HADOOP-T-7,HJ-B3-Data Center
+10.46.40.96,HJS494-T-15,HJ-B3-Data Center
+10.46.33.150,HJS494-T-17,HJ-B3-Data Center
+10.46.33.179,HJS494-T-18,HJ-B3-Data Center
+10.46.33.180,HJS494-T-19,HJ-B3-Data Center
+10.46.33.178,HJS496-HADOOP-1,HJS00496.persistent.co.in
+10.46.40.51,HJS496-HADOOP-2,HJS00496.persistent.co.in
+10.46.40.60,HJS496-HADOOP-T-3,HJS00496.persistent.co.in
+10.77.67.234,HV5-HDP-T-1,PT
+10.77.67.233,HV5-HDP-T-2,PT
+10.53.18.98,hj-ibmibm12544,FreeBird
+10.53.18.125,hj-ibmibm12305,FreeBird
+10.53.18.48,in-ibmibm1226 ,FreeBird
+10.53.19.200,hj-ibmibm6649,FreeBird
+10.88.2.142,v-newinit12,pts00058.persistent.co.in
+10.88.2.143,v-newinit13,pts00058.persistent.co.in
+10.46.33.182,,
+10.53.16.150,in-ibmibm2388,FreeBird
+10.53.16.234 ,in-ibmibm2263,FreeBird
+10.80.41.136,pt-ibmibm14168,Freebird
+10.53.16.234,in-ibmibm2263,Freebird
+10.80.67.126,pt-ibmibm16627,Freebird
+10.225.36.12,ng-ibmibm16666,Freebird
+10.80.41.132,pt-ibmibm14164,Freebird
+10.80.67.158,pt-ibmibm16754,Freebird
+10.44.218.123,FVSESX1-HADOOP-T-1,HJ
+10.46.41.33,HJS494-Hadoop-D-1,HJ-B3-Data Center
+10.44.33.182,HJS494-Hadoop-D-2,HJ-B3-Data Center
+10.46.40.26,HJS494-Hadoop-D-4,HJ-B3-Data Center
+10.46.33.181,HJS494-Hadoop-D-5,HJ-B3-Data Center
+10.46.34.236,HJS497-HADOOP-D,
+10.46.34.161,HJS494-Hadoop-D-6,HJ-B3-Data Center
+10.53.18.34,pt-ibmibm1255,Freebird
+10.51.230.182,hj-ibmibm9754,Freebird
+10.46.32.74,sh3aix53v1,
+10.53.16.132,in-ibmibm1393 ,FreeBird
+10.53.16.144,in-ibmibm1394 ,FreeBird
+10.53.17.37,in-ibmibm1395,FreeBird
